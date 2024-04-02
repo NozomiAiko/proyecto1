@@ -18,6 +18,14 @@
                 <li>second</li>
                 <li>third</li>
             </ul>
+            
+            <form action="action">
+                <h1>FORMULARIO DE REGISTRO</h1>
+                <label>correo:</label>
+                <input><input type="email" id="id">
+                <<input type="submit" value="guardar"> 
+            </form>
+     
 
         </ul>
 
