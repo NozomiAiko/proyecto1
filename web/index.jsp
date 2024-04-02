@@ -9,8 +9,8 @@
     <body>
         <h1>pagina principal</h1>
         <ul>
-            <li>first</li>
-            <li>second</li>
+            <li><a href="index.jsp">inicio</a></li>
+            <li><a href="quienes_somos.jsp">uienes somos?</a></li>
             <li>third</li>
             
             <ul>
